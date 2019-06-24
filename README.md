@@ -11,3 +11,8 @@ https://www.newsbeuter.org/doc/newsbeuter.html#_configuring_colors
 
 Gruvbox color codes:
 https://github.com/morhetz/gruvbox
+
+![Screenshot](screenshot1.png)
+
+
+![Screenshot](screenshot2.png)
