@@ -12,6 +12,8 @@ https://www.newsbeuter.org/doc/newsbeuter.html#_configuring_colors
 Gruvbox color codes:
 https://github.com/morhetz/gruvbox
 
+The font is [Iosevka](https://github.com/be5invis/iosevka)
+
 List of articles
 ![Screenshot](screenshot1.png)
 
